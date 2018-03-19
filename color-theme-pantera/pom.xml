@@ -35,6 +35,7 @@
     <!-- Name to display by the Extension Manager -->
     <xwiki.extension.name>Pantera Color Theme</xwiki.extension.name>
     <xwiki.extension.category>colortheme</xwiki.extension.category>
+    <xwiki.issueManagement.jira.id>COLORTHEME/component/14943</xwiki.issueManagement.jira.id>
   </properties>
   <dependencies>
     <dependency>
