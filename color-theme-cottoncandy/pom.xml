@@ -30,7 +30,7 @@
   <artifactId>color-theme-cottoncandy</artifactId>
   <packaging>xar</packaging>
   <name>Color Themes - Cotton Candy</name>
-  <description>Provides a color theme with delicious palette</description>
+  <description>Provides a color theme with a delicious palette</description>
   <properties>
     <!-- Name to display by the Extension Manager -->
     <xwiki.extension.name>Cotton Candy Color Theme</xwiki.extension.name>
