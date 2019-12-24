@@ -29,7 +29,7 @@
   </parent>
   <artifactId>color-theme-pantera</artifactId>
   <packaging>xar</packaging>
-  <name>Color Themes - Pantera</name>
+  <name>Color Themes - Pantera (Dark Mode)</name>
   <description>Provides a dark color theme with yellow details</description>
   <properties>
     <!-- Name to display by the Extension Manager -->
