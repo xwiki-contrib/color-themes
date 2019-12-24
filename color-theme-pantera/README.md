@@ -1,4 +1,4 @@
-# Pantera Color Theme
+# Pantera Color Theme (Dark Mode)
 
 * [Documentation & Download](http://extensions.xwiki.org/xwiki/bin/view/Extension/Pantera%20Color%20Theme/)
 * [Issue Tracker](https://jira.xwiki.org/browse/COLORTHEME/component/14943)
