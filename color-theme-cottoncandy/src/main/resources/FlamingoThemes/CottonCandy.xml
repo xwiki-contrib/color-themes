@@ -1085,7 +1085,7 @@
       <navbar-default-link-active-color>rgba(255,255,255,.6)</navbar-default-link-active-color>
     </property>
     <property>
-      <navbar-default-link-color>#fff</navbar-default-link-color>
+      <navbar-default-link-color/>
     </property>
     <property>
       <navbar-default-link-hover-bg>transparent</navbar-default-link-hover-bg>
