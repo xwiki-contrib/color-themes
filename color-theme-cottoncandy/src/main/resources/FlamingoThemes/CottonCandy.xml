@@ -905,10 +905,10 @@
       <btn-warning-color/>
     </property>
     <property>
-      <component-active-bg/>
+      <component-active-bg>@list-group-hover-bg</component-active-bg>
     </property>
     <property>
-      <component-active-color/>
+      <component-active-color>@list-group-link-hover-color</component-active-color>
     </property>
     <property>
       <dropdown-bg>#fafafa</dropdown-bg>
@@ -969,6 +969,8 @@
     </property>
     <property>
       <lessCode>@xwiki-border-color: #E8E8E8;
+/* Administration: Vertical Menus */
+@list-group-active-border: @list-group-border;
 
 #menuview .actionmenu, 
 #footerglobal {
@@ -1073,7 +1075,7 @@
       <logo>xwiki.png</logo>
     </property>
     <property>
-      <navbar-default-bg>#fff</navbar-default-bg>
+      <navbar-default-bg>#02b3e4</navbar-default-bg>
     </property>
     <property>
       <navbar-default-color>#9d9fa2</navbar-default-color>
@@ -1085,7 +1087,7 @@
       <navbar-default-link-active-color>rgba(255,255,255,.6)</navbar-default-link-active-color>
     </property>
     <property>
-      <navbar-default-link-color/>
+      <navbar-default-link-color>#fff</navbar-default-link-color>
     </property>
     <property>
       <navbar-default-link-hover-bg>transparent</navbar-default-link-hover-bg>
