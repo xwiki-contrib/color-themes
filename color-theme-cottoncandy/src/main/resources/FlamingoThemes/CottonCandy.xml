@@ -1078,7 +1078,7 @@
       <navbar-default-bg>#02b3e4</navbar-default-bg>
     </property>
     <property>
-      <navbar-default-color>#9d9fa2</navbar-default-color>
+      <navbar-default-color>#fff</navbar-default-color>
     </property>
     <property>
       <navbar-default-link-active-bg>transparent</navbar-default-link-active-bg>
